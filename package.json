@@ -24,7 +24,7 @@
     "test": "grunt test"
   },
   "dependencies": {
-    "prompt": "~0.1.12",
+    "prompt": "~1.1.0",
     "semver": "~1.0.14",
     "hooker": "~0.2.3",
     "colors": "~0.6.0-1",
